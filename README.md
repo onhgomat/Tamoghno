@@ -85,4 +85,4 @@
 ---
 
 ### ☕ Support Me
-<p><a href="https://www.buymeacoffee.com/onhgomat_18"><img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="onhgomat_18" /></a></p>
+<p><a href="https://www.buymeacoffee.com/onhgomat_18"><img align= remove followers issues pull requests reviews sticker
